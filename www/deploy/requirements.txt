@@ -3,3 +3,5 @@ MySQL-python==1.2.3
 Werkzeug==0.7.1
 django-extensions==0.6
 wsgiref==0.1.2
+django-tagging==0.3.1
+South==0.7.3

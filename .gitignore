@@ -1,3 +1,6 @@
 *.wpr
 *.pyc
 *.*~
+www/conf/local.py
+.project
+.pydevproject
